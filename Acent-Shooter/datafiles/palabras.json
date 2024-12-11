@@ -1,0 +1,1552 @@
+[
+    {
+        "id": 1,
+        "palabra": "mamá",
+        "tipo": "agudas"
+    },
+    {
+        "id": 2,
+        "palabra": "acción",
+        "tipo": "agudas"
+    },
+    {
+        "id": 3,
+        "palabra": "duró",
+        "tipo": "agudas"
+    },
+    {
+        "id": 4,
+        "palabra": "pateó",
+        "tipo": "agudas"
+    },
+    {
+        "id": 5,
+        "palabra": "acordeón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 6,
+        "palabra": "dominó",
+        "tipo": "agudas"
+    },
+    {
+        "id": 7,
+        "palabra": "paté",
+        "tipo": "agudas"
+    },
+    {
+        "id": 8,
+        "palabra": "además",
+        "tipo": "agudas"
+    },
+    {
+        "id": 9,
+        "palabra": "ecuación",
+        "tipo": "agudas"
+    },
+    {
+        "id": 10,
+        "palabra": "perdición",
+        "tipo": "agudas"
+    },
+    {
+        "id": 11,
+        "palabra": "adicción",
+        "tipo": "agudas"
+    },
+    {
+        "id": 12,
+        "palabra": "elegí",
+        "tipo": "agudas"
+    },
+    {
+        "id": 13,
+        "palabra": "persecución",
+        "tipo": "agudas"
+    },
+    {
+        "id": 14,
+        "palabra": "adiós",
+        "tipo": "agudas"
+    },
+    {
+        "id": 15,
+        "palabra": "encontré",
+        "tipo": "agudas"
+    },
+    {
+        "id": 16,
+        "palabra": "permanecí",
+        "tipo": "agudas"
+    },
+    {
+        "id": 17,
+        "palabra": "administración",
+        "tipo": "agudas"
+    },
+    {
+        "id": 18,
+        "palabra": "enfrentó",
+        "tipo": "agudas"
+    },
+    {
+        "id": 19,
+        "palabra": "pintó",
+        "tipo": "agudas"
+    },
+    {
+        "id": 20,
+        "palabra": "admisión",
+        "tipo": "agudas"
+    },
+    {
+        "id": 21,
+        "palabra": "enredó",
+        "tipo": "agudas"
+    },
+    {
+        "id": 22,
+        "palabra": "portugués",
+        "tipo": "agudas"
+    },
+    {
+        "id": 23,
+        "palabra": "alemán",
+        "tipo": "agudas"
+    },
+    {
+        "id": 24,
+        "palabra": "esquí",
+        "tipo": "agudas"
+    },
+    {
+        "id": 25,
+        "palabra": "puntapié",
+        "tipo": "agudas"
+    },
+    {
+        "id": 26,
+        "palabra": "balón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 27,
+        "palabra": "interés",
+        "tipo": "agudas"
+    },
+    {
+        "id": 28,
+        "palabra": "rincón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 29,
+        "palabra": "baúl",
+        "tipo": "agudas"
+    },
+    {
+        "id": 30,
+        "palabra": "irlandés",
+        "tipo": "agudas"
+    },
+    {
+        "id": 31,
+        "palabra": "riñón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 32,
+        "palabra": "bebé",
+        "tipo": "agudas"
+    },
+    {
+        "id": 33,
+        "palabra": "jabalí",
+        "tipo": "agudas"
+    },
+    {
+        "id": 34,
+        "palabra": "rompió",
+        "tipo": "agudas"
+    },
+    {
+        "id": 35,
+        "palabra": "botón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 36,
+        "palabra": "jabón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 37,
+        "palabra": "rotación",
+        "tipo": "agudas"
+    },
+    {
+        "id": 38,
+        "palabra": "jamás",
+        "tipo": "agudas"
+    },
+    {
+        "id": 39,
+        "palabra": "busqué",
+        "tipo": "agudas"
+    },
+    {
+        "id": 40,
+        "palabra": "japonés",
+        "tipo": "agudas"
+    },
+    {
+        "id": 41,
+        "palabra": "rubí",
+        "tipo": "agudas"
+    },
+    {
+        "id": 42,
+        "palabra": "café",
+        "tipo": "agudas"
+    },
+    {
+        "id": 43,
+        "palabra": "salchichón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 44,
+        "palabra": "cajón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 45,
+        "palabra": "jamón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 46,
+        "palabra": "salmón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 47,
+        "palabra": "camisón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 48,
+        "palabra": "jugará",
+        "tipo": "agudas"
+    },
+    {
+        "id": 49,
+        "palabra": "común",
+        "tipo": "agudas"
+    },
+    {
+        "id": 50,
+        "palabra": "menú",
+        "tipo": "agudas"
+    },
+    {
+        "id": 51,
+        "palabra": "tomó",
+        "tipo": "agudas"
+    },
+    {
+        "id": 52,
+        "palabra": "nación",
+        "tipo": "agudas"
+    },
+    {
+        "id": 53,
+        "palabra": "pantalón",
+        "tipo": "agudas"
+    },
+    {
+        "id": 54,
+        "palabra": "votación",
+        "tipo": "agudas"
+    },
+    {
+        "id": 55,
+        "palabra": "después",
+        "tipo": "agudas"
+    },
+    {
+        "id": 56,
+        "palabra": "organización",
+        "tipo": "agudas"
+    },
+    {
+        "id": 57,
+        "palabra": "país",
+        "tipo": "agudas"
+    },
+    {
+        "id": 58,
+        "palabra": "abarcar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 59,
+        "palabra": "correr",
+        "tipo": "agudas"
+    },
+    {
+        "id": 60,
+        "palabra": "acusar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 61,
+        "palabra": "deidad",
+        "tipo": "agudas"
+    },
+    {
+        "id": 62,
+        "palabra": "protector",
+        "tipo": "agudas"
+    },
+    {
+        "id": 63,
+        "palabra": "preguntar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 64,
+        "palabra": "depositar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 65,
+        "palabra": "adoptar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 66,
+        "palabra": "desinflar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 67,
+        "palabra": "regalar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 68,
+        "palabra": "regresar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 69,
+        "palabra": "encadenar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 70,
+        "palabra": "afeitar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 71,
+        "palabra": "encantar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 72,
+        "palabra": "responder",
+        "tipo": "agudas"
+    },
+    {
+        "id": 73,
+        "palabra": "amar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 74,
+        "palabra": "esconder",
+        "tipo": "agudas"
+    },
+    {
+        "id": 75,
+        "palabra": "escribir",
+        "tipo": "agudas"
+    },
+    {
+        "id": 76,
+        "palabra": "esencial",
+        "tipo": "agudas"
+    },
+    {
+        "id": 77,
+        "palabra": "salvar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 78,
+        "palabra": "saltar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 79,
+        "palabra": "especial",
+        "tipo": "agudas"
+    },
+    {
+        "id": 80,
+        "palabra": "saludar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 81,
+        "palabra": "explotar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 82,
+        "palabra": "bailar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 83,
+        "palabra": "general",
+        "tipo": "agudas"
+    },
+    {
+        "id": 84,
+        "palabra": "gritar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 85,
+        "palabra": "bostezar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 86,
+        "palabra": "jugar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 87,
+        "palabra": "soñar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 88,
+        "palabra": "caminar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 89,
+        "palabra": "trabajar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 90,
+        "palabra": "nacional",
+        "tipo": "agudas"
+    },
+    {
+        "id": 91,
+        "palabra": "combatir",
+        "tipo": "agudas"
+    },
+    {
+        "id": 92,
+        "palabra": "verdad",
+        "tipo": "agudas"
+    },
+    {
+        "id": 93,
+        "palabra": "contar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 94,
+        "palabra": "comprar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 95,
+        "palabra": "vender",
+        "tipo": "agudas"
+    },
+    {
+        "id": 96,
+        "palabra": "obsequiar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 97,
+        "palabra": "nadar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 98,
+        "palabra": "mural",
+        "tipo": "agudas"
+    },
+    {
+        "id": 99,
+        "palabra": "musical",
+        "tipo": "agudas"
+    },
+    {
+        "id": 100,
+        "palabra": "cepillar",
+        "tipo": "agudas"
+    },
+    {
+        "id": 101,
+        "palabra": "ágil",
+        "tipo": "graves"
+    },
+    {
+        "id": 102,
+        "palabra": "ecología",
+        "tipo": "graves"
+    },
+    {
+        "id": 103,
+        "palabra": "paraíso",
+        "tipo": "graves"
+    },
+    {
+        "id": 104,
+        "palabra": "egoísta",
+        "tipo": "graves"
+    },
+    {
+        "id": 105,
+        "palabra": "podría",
+        "tipo": "graves"
+    },
+    {
+        "id": 106,
+        "palabra": "energía",
+        "tipo": "graves"
+    },
+    {
+        "id": 107,
+        "palabra": "policía",
+        "tipo": "graves"
+    },
+    {
+        "id": 108,
+        "palabra": "árbol",
+        "tipo": "graves"
+    },
+    {
+        "id": 109,
+        "palabra": "portátil",
+        "tipo": "graves"
+    },
+    {
+        "id": 110,
+        "palabra": "filosofía",
+        "tipo": "graves"
+    },
+    {
+        "id": 111,
+        "palabra": "póquer",
+        "tipo": "graves"
+    },
+    {
+        "id": 112,
+        "palabra": "automóvil",
+        "tipo": "graves"
+    },
+    {
+        "id": 113,
+        "palabra": "fingía",
+        "tipo": "graves"
+    },
+    {
+        "id": 114,
+        "palabra": "biología",
+        "tipo": "graves"
+    },
+    {
+        "id": 115,
+        "palabra": "frágil",
+        "tipo": "graves"
+    },
+    {
+        "id": 116,
+        "palabra": "cadáver",
+        "tipo": "graves"
+    },
+    {
+        "id": 117,
+        "palabra": "fútbol",
+        "tipo": "graves"
+    },
+    {
+        "id": 118,
+        "palabra": "cáncer",
+        "tipo": "graves"
+    },
+    {
+        "id": 119,
+        "palabra": "récord",
+        "tipo": "graves"
+    },
+    {
+        "id": 120,
+        "palabra": "grúa",
+        "tipo": "graves"
+    },
+    {
+        "id": 121,
+        "palabra": "cárcel",
+        "tipo": "graves"
+    },
+    {
+        "id": 122,
+        "palabra": "hábil",
+        "tipo": "graves"
+    },
+    {
+        "id": 123,
+        "palabra": "río",
+        "tipo": "graves"
+    },
+    {
+        "id": 124,
+        "palabra": "césped",
+        "tipo": "graves"
+    },
+    {
+        "id": 125,
+        "palabra": "cirugía",
+        "tipo": "graves"
+    },
+    {
+        "id": 126,
+        "palabra": "clímax",
+        "tipo": "graves"
+    },
+    {
+        "id": 127,
+        "palabra": "sandía",
+        "tipo": "graves"
+    },
+    {
+        "id": 128,
+        "palabra": "trébol",
+        "tipo": "graves"
+    },
+    {
+        "id": 129,
+        "palabra": "lápiz",
+        "tipo": "graves"
+    },
+    {
+        "id": 130,
+        "palabra": "túnel",
+        "tipo": "graves"
+    },
+    {
+        "id": 131,
+        "palabra": "débil",
+        "tipo": "graves"
+    },
+    {
+        "id": 132,
+        "palabra": "leía",
+        "tipo": "graves"
+    },
+    {
+        "id": 133,
+        "palabra": "útil",
+        "tipo": "graves"
+    },
+    {
+        "id": 134,
+        "palabra": "líder",
+        "tipo": "graves"
+    },
+    {
+        "id": 135,
+        "palabra": "verdulería",
+        "tipo": "graves"
+    },
+    {
+        "id": 136,
+        "palabra": "dólar",
+        "tipo": "graves"
+    },
+    {
+        "id": 137,
+        "palabra": "orografía",
+        "tipo": "graves"
+    },
+    {
+        "id": 138,
+        "palabra": "zoología",
+        "tipo": "graves"
+    },
+    {
+        "id": 139,
+        "palabra": "abanico",
+        "tipo": "graves"
+    },
+    {
+        "id": 140,
+        "palabra": "mochila",
+        "tipo": "graves"
+    },
+    {
+        "id": 141,
+        "palabra": "muestra",
+        "tipo": "graves"
+    },
+    {
+        "id": 142,
+        "palabra": "abeja",
+        "tipo": "graves"
+    },
+    {
+        "id": 143,
+        "palabra": "cortinas",
+        "tipo": "graves"
+    },
+    {
+        "id": 144,
+        "palabra": "ojos",
+        "tipo": "graves"
+    },
+    {
+        "id": 145,
+        "palabra": "abrigo",
+        "tipo": "graves"
+    },
+    {
+        "id": 146,
+        "palabra": "abuela",
+        "tipo": "graves"
+    },
+    {
+        "id": 147,
+        "palabra": "ombligo",
+        "tipo": "graves"
+    },
+    {
+        "id": 148,
+        "palabra": "cuchara",
+        "tipo": "graves"
+    },
+    {
+        "id": 149,
+        "palabra": "adorno",
+        "tipo": "graves"
+    },
+    {
+        "id": 150,
+        "palabra": "pantera",
+        "tipo": "graves"
+    },
+    {
+        "id": 151,
+        "palabra": "aire",
+        "tipo": "graves"
+    },
+    {
+        "id": 152,
+        "palabra": "alfombra",
+        "tipo": "graves"
+    },
+    {
+        "id": 153,
+        "palabra": "pelo",
+        "tipo": "graves"
+    },
+    {
+        "id": 154,
+        "palabra": "diente",
+        "tipo": "graves"
+    },
+    {
+        "id": 155,
+        "palabra": "pestañas",
+        "tipo": "graves"
+    },
+    {
+        "id": 156,
+        "palabra": "arena",
+        "tipo": "graves"
+    },
+    {
+        "id": 157,
+        "palabra": "ensalada",
+        "tipo": "graves"
+    },
+    {
+        "id": 158,
+        "palabra": "piedra",
+        "tipo": "graves"
+    },
+    {
+        "id": 159,
+        "palabra": "pierna",
+        "tipo": "graves"
+    },
+    {
+        "id": 160,
+        "palabra": "estadio",
+        "tipo": "graves"
+    },
+    {
+        "id": 161,
+        "palabra": "plancha",
+        "tipo": "graves"
+    },
+    {
+        "id": 162,
+        "palabra": "playa",
+        "tipo": "graves"
+    },
+    {
+        "id": 163,
+        "palabra": "estrellas",
+        "tipo": "graves"
+    },
+    {
+        "id": 164,
+        "palabra": "escritorio",
+        "tipo": "graves"
+    },
+    {
+        "id": 165,
+        "palabra": "estructura",
+        "tipo": "graves"
+    },
+    {
+        "id": 166,
+        "palabra": "figura",
+        "tipo": "graves"
+    },
+    {
+        "id": 167,
+        "palabra": "banco",
+        "tipo": "graves"
+    },
+    {
+        "id": 168,
+        "palabra": "fruta",
+        "tipo": "graves"
+    },
+    {
+        "id": 169,
+        "palabra": "bota",
+        "tipo": "graves"
+    },
+    {
+        "id": 170,
+        "palabra": "taco",
+        "tipo": "graves"
+    },
+    {
+        "id": 171,
+        "palabra": "cabello",
+        "tipo": "graves"
+    },
+    {
+        "id": 172,
+        "palabra": "genio",
+        "tipo": "graves"
+    },
+    {
+        "id": 173,
+        "palabra": "roca",
+        "tipo": "graves"
+    },
+    {
+        "id": 174,
+        "palabra": "gusano",
+        "tipo": "graves"
+    },
+    {
+        "id": 175,
+        "palabra": "ropa",
+        "tipo": "graves"
+    },
+    {
+        "id": 176,
+        "palabra": "saludo",
+        "tipo": "graves"
+    },
+    {
+        "id": 177,
+        "palabra": "santo",
+        "tipo": "graves"
+    },
+    {
+        "id": 178,
+        "palabra": "ingenio",
+        "tipo": "graves"
+    },
+    {
+        "id": 179,
+        "palabra": "caminata",
+        "tipo": "graves"
+    },
+    {
+        "id": 180,
+        "palabra": "luna",
+        "tipo": "graves"
+    },
+    {
+        "id": 181,
+        "palabra": "silla",
+        "tipo": "graves"
+    },
+    {
+        "id": 182,
+        "palabra": "suerte",
+        "tipo": "graves"
+    },
+    {
+        "id": 183,
+        "palabra": "colmillo",
+        "tipo": "graves"
+    },
+    {
+        "id": 184,
+        "palabra": "come",
+        "tipo": "graves"
+    },
+    {
+        "id": 185,
+        "palabra": "jugo",
+        "tipo": "graves"
+    },
+    {
+        "id": 186,
+        "palabra": "tapado",
+        "tipo": "graves"
+    },
+    {
+        "id": 187,
+        "palabra": "mesa",
+        "tipo": "graves"
+    },
+    {
+        "id": 188,
+        "palabra": "conjuro",
+        "tipo": "graves"
+    },
+    {
+        "id": 189,
+        "palabra": "ábaco ",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 190,
+        "palabra": "paréntesis",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 191,
+        "palabra": "académico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 192,
+        "palabra": "acústica",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 193,
+        "palabra": "penúltimo",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 195,
+        "palabra": "fábula",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 196,
+        "palabra": "ámbito",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 197,
+        "palabra": "América",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 198,
+        "palabra": "fanático",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 199,
+        "palabra": "pirámides",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 200,
+        "palabra": "pólvora",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 201,
+        "palabra": "fantástico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 202,
+        "palabra": "ángulo",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 203,
+        "palabra": "física",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 204,
+        "palabra": "psíquica",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 205,
+        "palabra": "química",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 206,
+        "palabra": "árabe",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 207,
+        "palabra": "químico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 208,
+        "palabra": "rápido",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 209,
+        "palabra": "árboles",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 210,
+        "palabra": "gráficas",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 211,
+        "palabra": "rectángulo",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 212,
+        "palabra": "aromático",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 213,
+        "palabra": "atlético",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 214,
+        "palabra": "relámpago",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 215,
+        "palabra": "ridículo",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 216,
+        "palabra": "brócoli",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 217,
+        "palabra": "cálido",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 218,
+        "palabra": "sábado",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 219,
+        "palabra": "cámaras",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 220,
+        "palabra": "humorístico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 221,
+        "palabra": "catástrofe",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 222,
+        "palabra": "lágrima",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 223,
+        "palabra": "célebre",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 224,
+        "palabra": "centímetro",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 225,
+        "palabra": "libélula",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 226,
+        "palabra": "sílaba",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 227,
+        "palabra": "simpático",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 228,
+        "palabra": "lógica",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 229,
+        "palabra": "cerámica",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 230,
+        "palabra": "círculo",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 231,
+        "palabra": "lógico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 232,
+        "palabra": "tentáculos",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 233,
+        "palabra": "mágico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 234,
+        "palabra": "clásico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 235,
+        "palabra": "máquina",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 236,
+        "palabra": "terrícola",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 237,
+        "palabra": "túnica",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 238,
+        "palabra": "último",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 239,
+        "palabra": "números",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 240,
+        "palabra": "obstáculo",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 241,
+        "palabra": "vándalo",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 242,
+        "palabra": "orégano",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 243,
+        "palabra": "órgano",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 244,
+        "palabra": "ecológico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 245,
+        "palabra": "oxígeno",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 246,
+        "palabra": "económico",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 247,
+        "palabra": "ejército",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 248,
+        "palabra": "pálido",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 249,
+        "palabra": "película",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 250,
+        "palabra": "satélites",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 251,
+        "palabra": "pícaro",
+        "tipo": "esdrujulas"
+    },
+    {
+        "id": 252,
+        "palabra": "guárdamelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 253,
+        "palabra": "físicamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 254,
+        "palabra": "estúdiatela",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 255,
+        "palabra": "dejándoselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 256,
+        "palabra": "cocínaselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 257,
+        "palabra": "enérgicamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 258,
+        "palabra": "rápidamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 259,
+        "palabra": "atrápamelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 260,
+        "palabra": "aléjemelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 261,
+        "palabra": "véndeselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 262,
+        "palabra": "probándotela",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 263,
+        "palabra": "regálaselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 264,
+        "palabra": "consúltamelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 265,
+        "palabra": "diciéndomelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 266,
+        "palabra": "cómaselas",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 267,
+        "palabra": "infórmaselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 268,
+        "palabra": "sáqueselas",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 269,
+        "palabra": "sácatela",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 270,
+        "palabra": "escríbeselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 271,
+        "palabra": "cómpratela",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 272,
+        "palabra": "ciérramelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 273,
+        "palabra": "explíquemelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 274,
+        "palabra": "diciéndoselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 275,
+        "palabra": "encárgaselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 276,
+        "palabra": "júramelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 277,
+        "palabra": "infórmaselas",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 278,
+        "palabra": "consíguemelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 279,
+        "palabra": "difícilmente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 280,
+        "palabra": "trágatelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 281,
+        "palabra": "véndesela",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 282,
+        "palabra": "fácilmente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 283,
+        "palabra": "cómodamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 284,
+        "palabra": "específicamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 285,
+        "palabra": "dibújamelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 286,
+        "palabra": "llévatelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 287,
+        "palabra": "gánatela",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 288,
+        "palabra": "juégatela",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 289,
+        "palabra": "díganselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 290,
+        "palabra": "cómetelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 291,
+        "palabra": "entrégasela",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 292,
+        "palabra": "ágilmente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 293,
+        "palabra": "técnicamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 294,
+        "palabra": "léeselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 295,
+        "palabra": "coméntamelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 296,
+        "palabra": "bébanselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 297,
+        "palabra": "cálidamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 298,
+        "palabra": "prepárenselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 299,
+        "palabra": "pacíficamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 300,
+        "palabra": "bébetelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 301,
+        "palabra": "cuéntamelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 302,
+        "palabra": "románticamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 303,
+        "palabra": "piénsatelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 304,
+        "palabra": "cómpramelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 305,
+        "palabra": "apágamelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 306,
+        "palabra": "lógicamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 307,
+        "palabra": "quítenmelo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 308,
+        "palabra": "últimamente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 309,
+        "palabra": "frágilmente",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 310,
+        "palabra": "déjeselo",
+        "tipo": "sobreesdrujulas"
+    },
+    {
+        "id": 311,
+        "palabra": "guárdamelo",
+        "tipo": "sobreesdrujulas"
+    }
+]
